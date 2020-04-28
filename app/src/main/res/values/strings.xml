@@ -12,4 +12,5 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="light_theme_enabled">Light Theme Enabled</string>
 </resources>
